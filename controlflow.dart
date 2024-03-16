@@ -31,6 +31,6 @@ void main() {
     }
   }
   else {
-    print("Please enter an integer");
+    print("Please enter a number");
   }
 }
